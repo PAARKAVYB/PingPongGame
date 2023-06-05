@@ -35,7 +35,7 @@ NAME : PAARKAVY B
 REG NO : 212221230072
 ```
 
-GameManager.cs:
+## GameManager.cs:
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -69,7 +69,7 @@ public class GameManager : MonoBehaviour
 }
 ``` 
 
-Paddle.cs:
+## Paddle.cs:
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -127,7 +127,7 @@ public class Paddle : MonoBehaviour
 }
 ```
 
-Ball.cs:
+## Ball.cs:
 ```
 using System.Collections;
 using System.Collections.Generic;
@@ -186,6 +186,7 @@ public class Ball : MonoBehaviour
    }
 }
 ```
+
 ## OUTPUT:
 ### PLAY AREA:
 ![output](op1.png)
